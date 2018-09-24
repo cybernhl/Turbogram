@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="@color/ches_flamingo" />
+            <corners android:topRightRadius="@dimen/ches_border_medium" android:bottomRightRadius="@dimen/ches_border_medium" />
+        </shape>
+    </item>
+    <item>
+        <shape />
+    </item>
+</selector>

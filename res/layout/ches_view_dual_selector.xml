@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/options" android:background="@drawable/ches_selectors_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dimen_lvl1" android:layout_marginBottom="@dimen/dimen_lvl1" android:weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textStyle="bold" android:textColor="@color/selector_text_color" android:gravity="center" android:id="@id/second_option" android:background="@drawable/ches_selector_left_drawable" android:padding="@dimen/dimen_lvl1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <TextView android:textStyle="bold" android:textColor="@color/selector_text_color" android:gravity="center" android:id="@id/first_option" android:background="@drawable/ches_selector_right_drawable" android:padding="@dimen/dimen_lvl1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+</LinearLayout>

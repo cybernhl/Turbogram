@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/ches_custom_web" android:background="#ff000000" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:minWidth="100.0dip" android:minHeight="100.0dip" android:layout_centerInParent="true" />
+</RelativeLayout>

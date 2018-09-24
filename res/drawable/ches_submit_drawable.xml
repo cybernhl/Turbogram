@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/ches_flamingo" />
+            <stroke android:width="@dimen/ches_border_thin" android:color="@color/ches_flamingo" />
+            <corners android:radius="@dimen/ches_border_medium" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <stroke android:width="@dimen/ches_border_thin" android:color="@color/ches_flamingo" />
+            <corners android:radius="@dimen/ches_border_medium" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/call_notification_bg" android:layout_width="match_parent" android:layout_height="128dp">
+    <ImageView android:id="@r$id/photo" android:layout_width="42dp" android:layout_height="42dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layerType="hardware"/>
+    <ImageView android:id="@+id/icon" android:layout_width="16dp" android:layout_height="16dp" android:layout_marginLeft="-2dp" android:layout_marginBottom="-2dp" android:src="@drawable/call_custom_notification_icon" android:layout_alignLeft="@r$id/photo" android:layout_alignBottom="@r$id/photo"/>
+    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@r$id/text_wrap" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="-12dp" android:layout_marginRight="12dp" android:layout_marginBottom="-12dp" android:layout_toLeftOf="@r$id/photo" android:layout_alignTop="@r$id/photo" android:layout_alignBottom="@r$id/photo">
+        <TextView android:textSize="17dp" android:textColor="#fff" android:ellipsize="end" android:gravity="right" android:id="@r$id/name" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="sans-serif-medium"/>
+        <TextView android:textSize="14dp" android:textColor="#fff" android:ellipsize="end" android:gravity="right" android:id="@+id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true"/>
+        <TextView android:textSize="14dp" android:textColor="#6bffffff" android:ellipsize="end" android:gravity="right" android:id="@r$id/subtitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@r$id/buttons" android:background="@drawable/call_notification_line_rtl" android:paddingTop="0.3dp" android:layout_width="match_parent" android:layout_height="48.3dp" android:layout_alignParentBottom="true">
+        <FrameLayout android:id="@r$id/answer_btn" android:background="@drawable/bar_selector_white" android:layout_width="0dp" android:layout_height="match_parent" android:layout_margin="2dp" android:layout_weight="1">
+            <TextView android:textSize="14dp" android:textColor="#5ee067" android:gravity="center" android:layout_gravity="center" android:id="@r$id/answer_text" android:layout_width="wrap_content" android:layout_height="match_parent" android:drawableRight="@drawable/ic_call_notification_answer" android:drawablePadding="12dp" android:textAllCaps="true" android:fontFamily="sans-serif-medium"/>
+        </FrameLayout>
+        <FrameLayout android:id="@r$id/decline_btn" android:background="@drawable/bar_selector_white" android:layout_width="0dp" android:layout_height="match_parent" android:layout_margin="2dp" android:layout_weight="1">
+            <TextView android:textSize="14dp" android:textColor="#ef5050" android:gravity="center" android:layout_gravity="center" android:id="@r$id/decline_text" android:layout_width="wrap_content" android:layout_height="match_parent" android:drawableRight="@drawable/ic_call_notification_decline" android:drawablePadding="12dp" android:textAllCaps="true" android:fontFamily="sans-serif-medium"/>
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

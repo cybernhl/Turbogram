@@ -1,0 +1,300 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: ClientAlternativiTurbogram4.9.2.apk
+compressionType: false
+doNotCompress:
+- arsc
+- assets/emoji/v12_emoji2.0x_0_0.png
+- assets/emoji/v12_emoji2.0x_0_1.png
+- assets/emoji/v12_emoji2.0x_0_2.png
+- assets/emoji/v12_emoji2.0x_0_3.png
+- assets/emoji/v12_emoji2.0x_1_0.png
+- assets/emoji/v12_emoji2.0x_1_1.png
+- assets/emoji/v12_emoji2.0x_1_2.png
+- assets/emoji/v12_emoji2.0x_1_3.png
+- assets/emoji/v12_emoji2.0x_2_0.png
+- assets/emoji/v12_emoji2.0x_2_1.png
+- assets/emoji/v12_emoji2.0x_2_2.png
+- assets/emoji/v12_emoji2.0x_2_3.png
+- assets/emoji/v12_emoji2.0x_3_0.png
+- assets/emoji/v12_emoji2.0x_3_1.png
+- assets/emoji/v12_emoji2.0x_3_2.png
+- assets/emoji/v12_emoji2.0x_3_3.png
+- assets/emoji/v12_emoji2.0x_4_0.png
+- assets/emoji/v12_emoji2.0x_4_1.png
+- assets/emoji/v12_emoji2.0x_4_2.png
+- assets/emoji/v12_emoji2.0x_4_3.png
+- png
+- jpg
+- res/drawable-hdpi-v4/bluecounter.9.png
+- res/drawable-hdpi-v4/boxshadow.9.png
+- res/drawable-hdpi-v4/btnshadow.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
+- res/drawable-hdpi-v4/greydivider.9.png
+- res/drawable-hdpi-v4/greydivider_bottom.9.png
+- res/drawable-hdpi-v4/greydivider_top.9.png
+- res/drawable-hdpi-v4/location_panel.9.png
+- res/drawable-hdpi-v4/lock_round.9.png
+- res/drawable-hdpi-v4/lock_round_shadow.9.png
+- res/drawable-hdpi-v4/menu_copy.9.png
+- res/drawable-hdpi-v4/msg_in.9.png
+- res/drawable-hdpi-v4/msg_in_shadow.9.png
+- res/drawable-hdpi-v4/msg_out.9.png
+- res/drawable-hdpi-v4/msg_out_shadow.9.png
+- res/drawable-hdpi-v4/msg_photo.9.png
+- res/drawable-hdpi-v4/msg_photo_shadow.9.png
+- res/drawable-hdpi-v4/nocover_big.9.png
+- res/drawable-hdpi-v4/nocover_small.9.png
+- res/drawable-hdpi-v4/nophotos.9.png
+- res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-hdpi-v4/notification_bg_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-hdpi-v4/photobadge.9.png
+- res/drawable-hdpi-v4/photos_rounded.9.png
+- res/drawable-hdpi-v4/phototime.9.png
+- res/drawable-hdpi-v4/popup_fixed.9.png
+- res/drawable-hdpi-v4/popup_fixed_alert.9.png
+- res/drawable-hdpi-v4/popup_fixed_top.9.png
+- res/drawable-hdpi-v4/regbtn2.9.png
+- res/drawable-hdpi-v4/regbtn2_pressed.9.png
+- res/drawable-hdpi-v4/search_dark.9.png
+- res/drawable-hdpi-v4/search_dark_activated.9.png
+- res/drawable-hdpi-v4/sheet_shadow.9.png
+- res/drawable-hdpi-v4/smiles_popup.9.png
+- res/drawable-hdpi-v4/stickers_back_all.9.png
+- res/drawable-hdpi-v4/stickers_back_center.9.png
+- res/drawable-hdpi-v4/stickers_back_left.9.png
+- res/drawable-hdpi-v4/stickers_back_right.9.png
+- res/drawable-hdpi-v4/switch_to_on1.9.png
+- res/drawable-hdpi-v4/switch_to_on2.9.png
+- res/drawable-hdpi-v4/switch_track.9.png
+- res/drawable-hdpi-v4/system.9.png
+- res/drawable-hdpi-v4/wall_selection.9.png
+- res/drawable-mdpi-v4/bluecounter.9.png
+- res/drawable-mdpi-v4/boxshadow.9.png
+- res/drawable-mdpi-v4/btnshadow.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
+- res/drawable-mdpi-v4/greydivider.9.png
+- res/drawable-mdpi-v4/greydivider_bottom.9.png
+- res/drawable-mdpi-v4/greydivider_top.9.png
+- res/drawable-mdpi-v4/location_panel.9.png
+- res/drawable-mdpi-v4/lock_round.9.png
+- res/drawable-mdpi-v4/lock_round_shadow.9.png
+- res/drawable-mdpi-v4/menu_copy.9.png
+- res/drawable-mdpi-v4/msg_in.9.png
+- res/drawable-mdpi-v4/msg_in_shadow.9.png
+- res/drawable-mdpi-v4/msg_out.9.png
+- res/drawable-mdpi-v4/msg_out_shadow.9.png
+- res/drawable-mdpi-v4/msg_photo.9.png
+- res/drawable-mdpi-v4/msg_photo_shadow.9.png
+- res/drawable-mdpi-v4/nocover_big.9.png
+- res/drawable-mdpi-v4/nocover_small.9.png
+- res/drawable-mdpi-v4/nophotos.9.png
+- res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-mdpi-v4/notification_bg_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-mdpi-v4/photobadge.9.png
+- res/drawable-mdpi-v4/photos_rounded.9.png
+- res/drawable-mdpi-v4/phototime.9.png
+- res/drawable-mdpi-v4/popup_fixed.9.png
+- res/drawable-mdpi-v4/popup_fixed_alert.9.png
+- res/drawable-mdpi-v4/popup_fixed_top.9.png
+- res/drawable-mdpi-v4/regbtn2.9.png
+- res/drawable-mdpi-v4/regbtn2_pressed.9.png
+- res/drawable-mdpi-v4/search_dark.9.png
+- res/drawable-mdpi-v4/search_dark_activated.9.png
+- res/drawable-mdpi-v4/sheet_shadow.9.png
+- res/drawable-mdpi-v4/smiles_popup.9.png
+- res/drawable-mdpi-v4/stickers_back_all.9.png
+- res/drawable-mdpi-v4/stickers_back_center.9.png
+- res/drawable-mdpi-v4/stickers_back_left.9.png
+- res/drawable-mdpi-v4/stickers_back_right.9.png
+- res/drawable-mdpi-v4/switch_to_on1.9.png
+- res/drawable-mdpi-v4/switch_to_on2.9.png
+- res/drawable-mdpi-v4/switch_track.9.png
+- res/drawable-mdpi-v4/system.9.png
+- res/drawable-mdpi-v4/wall_selection.9.png
+- res/drawable-xhdpi-v4/bluecounter.9.png
+- res/drawable-xhdpi-v4/boxshadow.9.png
+- res/drawable-xhdpi-v4/btnshadow.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
+- res/drawable-xhdpi-v4/greydivider.9.png
+- res/drawable-xhdpi-v4/greydivider_bottom.9.png
+- res/drawable-xhdpi-v4/greydivider_top.9.png
+- res/drawable-xhdpi-v4/location_panel.9.png
+- res/drawable-xhdpi-v4/lock_round.9.png
+- res/drawable-xhdpi-v4/lock_round_shadow.9.png
+- res/drawable-xhdpi-v4/menu_copy.9.png
+- res/drawable-xhdpi-v4/msg_in.9.png
+- res/drawable-xhdpi-v4/msg_in_shadow.9.png
+- res/drawable-xhdpi-v4/msg_out.9.png
+- res/drawable-xhdpi-v4/msg_out_shadow.9.png
+- res/drawable-xhdpi-v4/msg_photo.9.png
+- res/drawable-xhdpi-v4/msg_photo_shadow.9.png
+- res/drawable-xhdpi-v4/nocover_big.9.png
+- res/drawable-xhdpi-v4/nocover_small.9.png
+- res/drawable-xhdpi-v4/nophotos.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-xhdpi-v4/photobadge.9.png
+- res/drawable-xhdpi-v4/photos_rounded.9.png
+- res/drawable-xhdpi-v4/phototime.9.png
+- res/drawable-xhdpi-v4/popup_fixed.9.png
+- res/drawable-xhdpi-v4/popup_fixed_alert.9.png
+- res/drawable-xhdpi-v4/popup_fixed_top.9.png
+- res/drawable-xhdpi-v4/regbtn2.9.png
+- res/drawable-xhdpi-v4/regbtn2_pressed.9.png
+- res/drawable-xhdpi-v4/search_dark.9.png
+- res/drawable-xhdpi-v4/search_dark_activated.9.png
+- res/drawable-xhdpi-v4/sheet_shadow.9.png
+- res/drawable-xhdpi-v4/smiles_popup.9.png
+- res/drawable-xhdpi-v4/stickers_back_all.9.png
+- res/drawable-xhdpi-v4/stickers_back_center.9.png
+- res/drawable-xhdpi-v4/stickers_back_left.9.png
+- res/drawable-xhdpi-v4/stickers_back_right.9.png
+- res/drawable-xhdpi-v4/switch_to_on1.9.png
+- res/drawable-xhdpi-v4/switch_to_on2.9.png
+- res/drawable-xhdpi-v4/switch_track.9.png
+- res/drawable-xhdpi-v4/system.9.png
+- res/drawable-xhdpi-v4/wall_selection.9.png
+- res/drawable-xxhdpi-v4/bluecounter.9.png
+- res/drawable-xxhdpi-v4/boxshadow.9.png
+- res/drawable-xxhdpi-v4/btnshadow.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
+- res/drawable-xxhdpi-v4/greydivider.9.png
+- res/drawable-xxhdpi-v4/greydivider_bottom.9.png
+- res/drawable-xxhdpi-v4/greydivider_top.9.png
+- res/drawable-xxhdpi-v4/location_panel.9.png
+- res/drawable-xxhdpi-v4/lock_round.9.png
+- res/drawable-xxhdpi-v4/lock_round_shadow.9.png
+- res/drawable-xxhdpi-v4/menu_copy.9.png
+- res/drawable-xxhdpi-v4/msg_in.9.png
+- res/drawable-xxhdpi-v4/msg_in_10.9.png
+- res/drawable-xxhdpi-v4/msg_in_2.9.png
+- res/drawable-xxhdpi-v4/msg_in_3.9.png
+- res/drawable-xxhdpi-v4/msg_in_4.9.png
+- res/drawable-xxhdpi-v4/msg_in_5.9.png
+- res/drawable-xxhdpi-v4/msg_in_6.9.png
+- res/drawable-xxhdpi-v4/msg_in_7.9.png
+- res/drawable-xxhdpi-v4/msg_in_8.9.png
+- res/drawable-xxhdpi-v4/msg_in_9.9.png
+- res/drawable-xxhdpi-v4/msg_in_shadow.9.png
+- res/drawable-xxhdpi-v4/msg_out.9.png
+- res/drawable-xxhdpi-v4/msg_out_10.9.png
+- res/drawable-xxhdpi-v4/msg_out_2.9.png
+- res/drawable-xxhdpi-v4/msg_out_3.9.png
+- res/drawable-xxhdpi-v4/msg_out_4.9.png
+- res/drawable-xxhdpi-v4/msg_out_5.9.png
+- res/drawable-xxhdpi-v4/msg_out_6.9.png
+- res/drawable-xxhdpi-v4/msg_out_7.9.png
+- res/drawable-xxhdpi-v4/msg_out_8.9.png
+- res/drawable-xxhdpi-v4/msg_out_9.9.png
+- res/drawable-xxhdpi-v4/msg_out_shadow.9.png
+- res/drawable-xxhdpi-v4/msg_photo.9.png
+- res/drawable-xxhdpi-v4/msg_photo_10.9.png
+- res/drawable-xxhdpi-v4/msg_photo_2.9.png
+- res/drawable-xxhdpi-v4/msg_photo_3.9.png
+- res/drawable-xxhdpi-v4/msg_photo_4.9.png
+- res/drawable-xxhdpi-v4/msg_photo_6.9.png
+- res/drawable-xxhdpi-v4/msg_photo_7.9.png
+- res/drawable-xxhdpi-v4/msg_photo_8.9.png
+- res/drawable-xxhdpi-v4/msg_photo_9.9.png
+- res/drawable-xxhdpi-v4/msg_photo_shadow.9.png
+- res/drawable-xxhdpi-v4/nocover_big.9.png
+- res/drawable-xxhdpi-v4/nocover_small.9.png
+- res/drawable-xxhdpi-v4/nophotos.9.png
+- res/drawable-xxhdpi-v4/photobadge.9.png
+- res/drawable-xxhdpi-v4/photos_rounded.9.png
+- res/drawable-xxhdpi-v4/phototime.9.png
+- res/drawable-xxhdpi-v4/popup_fixed.9.png
+- res/drawable-xxhdpi-v4/popup_fixed_alert.9.png
+- res/drawable-xxhdpi-v4/popup_fixed_top.9.png
+- res/drawable-xxhdpi-v4/regbtn2.9.png
+- res/drawable-xxhdpi-v4/regbtn2_pressed.9.png
+- res/drawable-xxhdpi-v4/search_dark.9.png
+- res/drawable-xxhdpi-v4/search_dark_activated.9.png
+- res/drawable-xxhdpi-v4/sheet_shadow.9.png
+- res/drawable-xxhdpi-v4/smiles_popup.9.png
+- res/drawable-xxhdpi-v4/stickers_back_all.9.png
+- res/drawable-xxhdpi-v4/stickers_back_center.9.png
+- res/drawable-xxhdpi-v4/stickers_back_left.9.png
+- res/drawable-xxhdpi-v4/stickers_back_right.9.png
+- res/drawable-xxhdpi-v4/switch_to_on1.9.png
+- res/drawable-xxhdpi-v4/switch_to_on2.9.png
+- res/drawable-xxhdpi-v4/switch_track.9.png
+- res/drawable-xxhdpi-v4/system.9.png
+- res/drawable-xxhdpi-v4/wall_selection.9.png
+- res/drawable-xxxhdpi-v4/sheet_shadow.9.png
+- wav
+- mp3
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '27'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '8'
+  builddef.lst: '8'
+  firebase-abt.properties: '8'
+  firebase-analytics-impl.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-config.properties: '8'
+  firebase-core.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector-impl.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  isoparser-default.properties: '8'
+  play-services-ads-base.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-ads-lite.properties: '8'
+  play-services-ads.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-clearcut.properties: '8'
+  play-services-flags.properties: '8'
+  play-services-gass.properties: '8'
+  play-services-gcm.properties: '8'
+  play-services-identity.properties: '8'
+  play-services-iid.properties: '8'
+  play-services-maps.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-phenotype.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  play-services-vision-common.properties: '8'
+  play-services-vision.properties: '8'
+  play-services-wallet.properties: '8'
+  play-services-wearable.properties: '8'
+  version.txt: '8'
+  fabric/com.stripe.stripe-android.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '13582'
+  versionName: 4.9.2

@@ -1,0 +1,27 @@
+package com.google.android.gms.internal.ads;
+
+import android.support.media.ExifInterface;
+import java.lang.reflect.InvocationTargetException;
+
+public final class zzdw extends zzei {
+    private static volatile String zzdc = null;
+    private static final Object zztn = new Object();
+
+    public zzdw(zzcz zzcz, String str, String str2, zzba zzba, int i, int i2) {
+        super(zzcz, str, str2, zzba, i, 1);
+    }
+
+    protected final void zzar() throws IllegalAccessException, InvocationTargetException {
+        this.zztq.zzdc = ExifInterface.LONGITUDE_EAST;
+        if (zzdc == null) {
+            synchronized (zztn) {
+                if (zzdc == null) {
+                    zzdc = (String) this.zztz.invoke(null, new Object[0]);
+                }
+            }
+        }
+        synchronized (this.zztq) {
+            this.zztq.zzdc = zzdc;
+        }
+    }
+}
